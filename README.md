@@ -1,5 +1,5 @@
 # SexOS.Research
 # Home:
-https://www.youtube.com/@SexMicrokernel
+💻University.: https://www.youtube.com/@SexMicrokernel
 
-https://github.com/xirtus/Sex
+📖Source: https://github.com/xirtus/Sex
